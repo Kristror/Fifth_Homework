@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Anagrams\bin\Debug\Anagrams.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Anagrams\bin\Debug\Anagrams.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Anagrams\bin\Debug\Anagrams.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Anagrams\obj\Debug\Anagrams.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Anagrams\obj\Debug\Anagrams.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Anagrams\obj\Debug\Anagrams.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Anagrams\obj\Debug\Anagrams.pdb
