@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\CorrLog\bin\Debug\CorrLog.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\CorrLog\bin\Debug\CorrLog.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\CorrLog\bin\Debug\CorrLog.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\CorrLog\obj\Debug\CorrLog.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\CorrLog\obj\Debug\CorrLog.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\CorrLog\obj\Debug\CorrLog.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\CorrLog\obj\Debug\CorrLog.pdb
