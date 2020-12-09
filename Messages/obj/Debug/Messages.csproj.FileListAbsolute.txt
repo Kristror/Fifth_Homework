@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Messages\bin\Debug\Messages.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Messages\bin\Debug\Messages.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Messages\bin\Debug\Messages.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Messages\obj\Debug\Messages.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Messages\obj\Debug\Messages.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Messages\obj\Debug\Messages.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\Messages\obj\Debug\Messages.pdb

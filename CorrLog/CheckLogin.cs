@@ -4,7 +4,7 @@ namespace CorrLog
 {
     partial class Program
     {
-        static class CheckLogin
+        class CheckLogin
         {
             public static bool RegCheck(string login)
             {
