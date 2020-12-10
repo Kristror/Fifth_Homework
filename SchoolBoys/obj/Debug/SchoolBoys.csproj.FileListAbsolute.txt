@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\SchoolBoys\bin\Debug\SchoolBoys.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\SchoolBoys\bin\Debug\SchoolBoys.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\SchoolBoys\bin\Debug\SchoolBoys.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\SchoolBoys\obj\Debug\SchoolBoys.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\SchoolBoys\obj\Debug\SchoolBoys.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\SchoolBoys\obj\Debug\SchoolBoys.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Fifth_Homework\SchoolBoys\obj\Debug\SchoolBoys.csprojAssemblyReference.cache

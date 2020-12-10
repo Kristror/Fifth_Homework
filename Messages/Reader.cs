@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Text;
 
 namespace Messages
 {
@@ -60,14 +61,15 @@ namespace Messages
             public static string StrMax(string str)
             {
                 string max = MaxLenght(str);
-                string strMax = "";
+                StringBuilder sb = new StringBuilder();
+
                 string[] lines = str.Split(' ');
                 foreach (var word in lines)
                     if (word.Length == max.Length)
                     {
-                        strMax += word+" ";
+                        sb.Append(word+" ");
                     }
-                return strMax;
+                return sb.ToString();
             }
         }
     }
