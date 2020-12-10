@@ -44,9 +44,9 @@ namespace TrustGame
                     if (anwser.ToLower().Equals(re.ToLower()))
                     {
                         points++;
-                        Console.WriteLine("Все верно");
+                        Console.WriteLine("Все верно!");
                     }
-                    else Console.WriteLine("Вы не правы");
+                    else Console.WriteLine("Вы не правы...");
                 }
                 return points;
             }
