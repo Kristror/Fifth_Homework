@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolBoys", "SchoolBoys\SchoolBoys.csproj", "{638308D0-6460-47B9-8B71-87BBACAC06A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrustGame", "TrustGame\TrustGame.csproj", "{A11CCDA2-947A-453A-878B-2C674DA8CD67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{638308D0-6460-47B9-8B71-87BBACAC06A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{638308D0-6460-47B9-8B71-87BBACAC06A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{638308D0-6460-47B9-8B71-87BBACAC06A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11CCDA2-947A-453A-878B-2C674DA8CD67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11CCDA2-947A-453A-878B-2C674DA8CD67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11CCDA2-947A-453A-878B-2C674DA8CD67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11CCDA2-947A-453A-878B-2C674DA8CD67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

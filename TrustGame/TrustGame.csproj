@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{638308D0-6460-47B9-8B71-87BBACAC06A8}</ProjectGuid>
+    <ProjectGuid>{A11CCDA2-947A-453A-878B-2C674DA8CD67}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SchoolBoys</RootNamespace>
-    <AssemblyName>SchoolBoys</AssemblyName>
+    <RootNamespace>TrustGame</RootNamespace>
+    <AssemblyName>TrustGame</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Pupils.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
